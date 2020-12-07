@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+## Welcome
 
-You can use the [editor on GitHub](https://github.com/jrnker/jrnker/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Sample apps
+[Proxmea.NumericTypesProperties](https://github.com/jrnker/Proxmea.NumericTypesProperties)
+Sample app to show the numeric datatypes in .Net
+[Proxmea.ConsoleHelper](https://github.com/jrnker/Proxmea.ConsoleHelper)
+Sample app to show how to read output from a console app
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Tools
+[BumpVersions](https://github.com/jrnker/BumpVersions)
+Automatically bump version numbers when compiling a Visual Studio project
 
-### Markdown
+### Libraries
+[CSharp-easy-RSA-PEM](https://github.com/jrnker/CSharp-easy-RSA-PEM)
+A library to work with text PEM keys in .Net
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Chef cookbooks
+[windows_rdp](https://github.com/jrnker/windows_rdp)
+[windows_network](https://github.com/jrnker/windows_network)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jrnker/jrnker/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Hiking maps
+[Hiking-Sweden-Dalarna-Grovelsjon-Surroundings](https://github.com/jrnker/Hiking-Sweden-Dalarna-Grovelsjon-Surroundings)
+[Hiking-Sweden-Sormlandsleden](https://github.com/jrnker/Hiking-Sweden-Sormlandsleden)
+[Hiking-Sweden-Lappland-Guijaure-surroundings](https://github.com/jrnker/Hiking-Sweden-Lappland-Guijaure-surroundings)
